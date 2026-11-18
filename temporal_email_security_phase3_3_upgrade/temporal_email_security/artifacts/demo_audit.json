@@ -1,0 +1,48 @@
+{
+  "source": "sample_data/demo.csv",
+  "seed": 42,
+  "splits": {
+    "train": {
+      "users": 7,
+      "rows": 315,
+      "positive": 74,
+      "unique_subject_body": 29,
+      "timestamp_min": "2026-01-01 00:00:00+00:00",
+      "timestamp_max": "2026-01-08 10:00:00+00:00"
+    },
+    "validation": {
+      "users": 2,
+      "rows": 90,
+      "positive": 18,
+      "unique_subject_body": 27,
+      "timestamp_min": "2026-01-01 00:00:00+00:00",
+      "timestamp_max": "2026-01-08 10:00:00+00:00"
+    },
+    "test": {
+      "users": 3,
+      "rows": 135,
+      "positive": 28,
+      "unique_subject_body": 28,
+      "timestamp_min": "2026-01-01 00:00:00+00:00",
+      "timestamp_max": "2026-01-08 10:00:00+00:00"
+    }
+  },
+  "cross_split_content_overlap": {
+    "train_vs_validation": {
+      "shared_message_templates": 27,
+      "rows_in_train": 292,
+      "rows_in_validation": 90
+    },
+    "train_vs_test": {
+      "shared_message_templates": 28,
+      "rows_in_train": 303,
+      "rows_in_test": 135
+    },
+    "validation_vs_test": {
+      "shared_message_templates": 26,
+      "rows_in_validation": 88,
+      "rows_in_test": 118
+    }
+  },
+  "warning": "Shared normalized subject/body text across splits can inflate results. This audit does not prove dataset provenance or checkpoint independence."
+}

@@ -1,0 +1,189 @@
+{
+  "source": "sample_data\\challenge_seed43.csv",
+  "synthetic": true,
+  "seed": 43,
+  "encoder": "minilm",
+  "epochs": 10,
+  "split_method": "disjoint normalized subject/body templates; users may overlap; states reset per partition",
+  "cross_split_exact_template_overlap": 0,
+  "limitations": [
+    "Not a real-world dataset when generated with --generate-challenge",
+    "Text templates are disjoint but users may occur in multiple partitions",
+    "No guarantee of independent semantic meaning or label quality",
+    "No future-only temporal split: do not claim prospective performance"
+  ],
+  "split": {
+    "train": {
+      "emails": 260,
+      "users": 12,
+      "positive": 79,
+      "unique_templates": 256
+    },
+    "validation": {
+      "emails": 85,
+      "users": 12,
+      "positive": 35,
+      "unique_templates": 85
+    },
+    "test": {
+      "emails": 87,
+      "users": 12,
+      "positive": 28,
+      "unique_templates": 87
+    }
+  },
+  "models": {
+    "tfidf_logistic": {
+      "validation": {
+        "samples": 85,
+        "positive_samples": 35,
+        "threshold": 0.40432229978066286,
+        "precision": 0.46774193548387094,
+        "recall": 0.8285714285714286,
+        "f1": 0.5979381443298969,
+        "balanced_accuracy": 0.5842857142857143,
+        "false_positive_rate": 0.66,
+        "confusion_matrix": {
+          "tn": 17,
+          "fp": 33,
+          "fn": 6,
+          "tp": 29
+        },
+        "average_precision": 0.44184958210887276,
+        "roc_auc": 0.5017142857142858
+      },
+      "test": {
+        "samples": 87,
+        "positive_samples": 28,
+        "threshold": 0.40432229978066286,
+        "precision": 0.3088235294117647,
+        "recall": 0.75,
+        "f1": 0.4375,
+        "balanced_accuracy": 0.4766949152542373,
+        "false_positive_rate": 0.7966101694915254,
+        "confusion_matrix": {
+          "tn": 12,
+          "fp": 47,
+          "fn": 7,
+          "tp": 21
+        },
+        "average_precision": 0.41158495893812547,
+        "roc_auc": 0.5472154963680388
+      }
+    },
+    "text_only": {
+      "validation": {
+        "samples": 85,
+        "positive_samples": 35,
+        "threshold": 0.40227174758911133,
+        "precision": 0.4268292682926829,
+        "recall": 1.0,
+        "f1": 0.5982905982905983,
+        "balanced_accuracy": 0.53,
+        "false_positive_rate": 0.94,
+        "confusion_matrix": {
+          "tn": 3,
+          "fp": 47,
+          "fn": 0,
+          "tp": 35
+        },
+        "average_precision": 0.37120291513702525,
+        "roc_auc": 0.44857142857142857
+      },
+      "test": {
+        "samples": 87,
+        "positive_samples": 28,
+        "threshold": 0.40227174758911133,
+        "precision": 0.3048780487804878,
+        "recall": 0.8928571428571429,
+        "f1": 0.45454545454545453,
+        "balanced_accuracy": 0.46337772397094434,
+        "false_positive_rate": 0.9661016949152542,
+        "confusion_matrix": {
+          "tn": 2,
+          "fp": 57,
+          "fn": 3,
+          "tp": 25
+        },
+        "average_precision": 0.29543359260540686,
+        "roc_auc": 0.3765133171912833
+      }
+    },
+    "temporal_gnn": {
+      "validation": {
+        "samples": 85,
+        "positive_samples": 35,
+        "threshold": 0.14448198676109314,
+        "precision": 0.5740740740740741,
+        "recall": 0.8857142857142857,
+        "f1": 0.6966292134831461,
+        "balanced_accuracy": 0.7128571428571429,
+        "false_positive_rate": 0.46,
+        "confusion_matrix": {
+          "tn": 27,
+          "fp": 23,
+          "fn": 4,
+          "tp": 31
+        },
+        "average_precision": 0.5538850328024284,
+        "roc_auc": 0.6960000000000001
+      },
+      "test": {
+        "samples": 87,
+        "positive_samples": 28,
+        "threshold": 0.14448198676109314,
+        "precision": 0.4230769230769231,
+        "recall": 0.7857142857142857,
+        "f1": 0.55,
+        "balanced_accuracy": 0.6386198547215496,
+        "false_positive_rate": 0.5084745762711864,
+        "confusion_matrix": {
+          "tn": 29,
+          "fp": 30,
+          "fn": 6,
+          "tp": 22
+        },
+        "average_precision": 0.6117305085848048,
+        "roc_auc": 0.7633171912832929
+      }
+    },
+    "gnn_no_history": {
+      "validation": {
+        "samples": 85,
+        "positive_samples": 35,
+        "threshold": 0.23984259366989136,
+        "precision": 0.5769230769230769,
+        "recall": 0.8571428571428571,
+        "f1": 0.6896551724137931,
+        "balanced_accuracy": 0.7085714285714286,
+        "false_positive_rate": 0.44,
+        "confusion_matrix": {
+          "tn": 28,
+          "fp": 22,
+          "fn": 5,
+          "tp": 30
+        },
+        "average_precision": 0.5444940491814916,
+        "roc_auc": 0.7045714285714285
+      },
+      "test": {
+        "samples": 87,
+        "positive_samples": 28,
+        "threshold": 0.23984259366989136,
+        "precision": 0.4032258064516129,
+        "recall": 0.8928571428571429,
+        "f1": 0.5555555555555556,
+        "balanced_accuracy": 0.6328692493946732,
+        "false_positive_rate": 0.6271186440677966,
+        "confusion_matrix": {
+          "tn": 22,
+          "fp": 37,
+          "fn": 3,
+          "tp": 25
+        },
+        "average_precision": 0.5419492677909086,
+        "roc_auc": 0.7161016949152543
+      }
+    }
+  }
+}

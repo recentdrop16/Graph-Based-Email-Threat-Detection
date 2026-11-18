@@ -1,0 +1,18 @@
+{
+  "temporal": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "false_positive_rate": 0.0,
+    "samples": 135,
+    "positive_samples": 33
+  },
+  "text_only": {
+    "precision": 0.24444444444444444,
+    "recall": 1.0,
+    "f1": 0.39285714285714285,
+    "false_positive_rate": 1.0,
+    "samples": 135,
+    "positive_samples": 33
+  }
+}

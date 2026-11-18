@@ -1,0 +1,433 @@
+user_id,timestamp,sender,recipient,subject,body,label
+user0,2026-02-01T00:00:00+00:00,external0_0@mail.test,employee0@company.test,Project request,"At your convenience, check the payment details using the usual process.",1
+user0,2026-02-01T01:50:00+00:00,external0_1@mail.test,employee0@company.test,Schedule reminder,I need you to confirm the schedule for our records.,0
+user0,2026-02-01T03:40:00+00:00,employee0@company.test,colleague0_1@company.test,Weekly update,Following up to confirm the schedule when you are available.,0
+user0,2026-02-01T05:30:00+00:00,colleague0_0@company.test,employee0@company.test,Help desk message,"Today, please verify the delivery before the end of the day.",0
+user0,2026-02-01T07:20:00+00:00,external0_4@mail.test,employee0@company.test,Weekly update,"Today, please check the login notice and let me know.",0
+user0,2026-02-01T09:10:00+00:00,colleague0_2@company.test,employee0@company.test,Access request,Following up to update the account details when you are available.,0
+user0,2026-02-01T11:00:00+00:00,colleague0_0@company.test,employee0@company.test,Team follow-up,"Today, please open the shared file through the help desk.",0
+user0,2026-02-01T12:50:00+00:00,employee0@company.test,colleague0_2@company.test,Project request,I need you to update the account details for our records.,0
+user0,2026-02-01T14:40:00+00:00,employee0@company.test,external0_8@mail.test,Meeting follow-up,"Today, please review the access request and send a confirmation.",0
+user0,2026-02-01T16:30:00+00:00,colleague0_2@company.test,employee0@company.test,Schedule reminder,"Before the deadline, verify the delivery and let me know.",0
+user0,2026-02-01T18:20:00+00:00,employee0@company.test,colleague0_3@company.test,Access request,Just a reminder to update the account details after the next meeting.,0
+user0,2026-02-01T20:10:00+00:00,external0_11@mail.test,employee0@company.test,Team follow-up,Following up to open the shared file for our records.,1
+user0,2026-02-01T22:00:00+00:00,external0_12@mail.test,employee0@company.test,Access request,"When you have time, open the shared file through the help desk.",0
+user0,2026-02-01T23:50:00+00:00,external0_13@mail.test,employee0@company.test,Security review,"For the team, update the account details when you are available.",0
+user0,2026-02-02T01:40:00+00:00,external0_14@mail.test,employee0@company.test,Payment question,Could you respond to the support ticket through the help desk.,1
+user0,2026-02-02T03:30:00+00:00,colleague0_2@company.test,employee0@company.test,Schedule reminder,I need you to review the payroll update and send a confirmation.,0
+user0,2026-02-02T05:20:00+00:00,external0_16@mail.test,employee0@company.test,Team follow-up,"For the weekly review, respond to the support ticket using the shared portal.",0
+user0,2026-02-02T07:10:00+00:00,colleague0_2@company.test,employee0@company.test,Team follow-up,Just a reminder to respond to the support ticket and send a confirmation.,0
+user0,2026-02-02T09:00:00+00:00,colleague0_2@company.test,employee0@company.test,Shared document,"For the weekly review, confirm the invoice for our records.",0
+user0,2026-02-02T10:50:00+00:00,external0_19@mail.test,employee0@company.test,Access request,"As discussed, review the payroll update using the usual process.",1
+user0,2026-02-02T12:40:00+00:00,colleague0_3@company.test,employee0@company.test,Team follow-up,"At your convenience, confirm the invoice and let me know.",0
+user0,2026-02-02T14:30:00+00:00,external0_21@mail.test,employee0@company.test,Security review,Please open the shared file with the finance team.,1
+user0,2026-02-02T16:20:00+00:00,colleague0_2@company.test,employee0@company.test,Schedule reminder,Just a reminder to respond to the support ticket using the shared portal.,0
+user0,2026-02-02T18:10:00+00:00,external0_23@mail.test,employee0@company.test,Shared document,"Today, please confirm the schedule through the help desk.",1
+user0,2026-02-02T20:00:00+00:00,employee0@company.test,colleague0_3@company.test,Help desk message,Please check the login notice using the usual process.,0
+user0,2026-02-02T21:50:00+00:00,external0_25@mail.test,employee0@company.test,Shared document,Just a reminder to review the access request through the help desk.,0
+user0,2026-02-02T23:40:00+00:00,colleague0_2@company.test,employee0@company.test,Meeting follow-up,"At your convenience, open the shared file using the shared portal.",0
+user0,2026-02-03T01:30:00+00:00,employee0@company.test,colleague0_1@company.test,Invoice update,Could you confirm the invoice after the next meeting.,0
+user0,2026-02-03T03:20:00+00:00,colleague0_2@company.test,employee0@company.test,Security review,"At your convenience, confirm the invoice when you are available.",0
+user0,2026-02-03T05:10:00+00:00,external0_29@mail.test,employee0@company.test,Team follow-up,Following up to review the document after the next meeting.,1
+user0,2026-02-03T07:00:00+00:00,colleague0_1@company.test,employee0@company.test,Access request,Just a reminder to review the document for our records.,1
+user0,2026-02-03T08:50:00+00:00,colleague0_0@company.test,employee0@company.test,Access request,I need you to verify the delivery and reply to this message.,0
+user0,2026-02-03T10:40:00+00:00,colleague0_3@company.test,employee0@company.test,Meeting follow-up,Could you review the access request for our records.,0
+user0,2026-02-03T12:30:00+00:00,colleague0_3@company.test,employee0@company.test,Shared document,I need you to respond to the support ticket and send a confirmation.,0
+user0,2026-02-03T14:20:00+00:00,external0_34@mail.test,employee0@company.test,Team follow-up,I need you to update the account details with the finance team.,1
+user0,2026-02-03T16:10:00+00:00,external0_35@mail.test,employee0@company.test,Help desk message,"As discussed, verify the meeting time with the finance team.",1
+user1,2026-02-01T00:03:00+00:00,external1_0@mail.test,employee1@company.test,Schedule reminder,Following up to confirm the invoice and send a confirmation.,0
+user1,2026-02-01T01:53:00+00:00,colleague1_3@company.test,employee1@company.test,Payment question,"As discussed, verify the meeting time using the shared portal.",1
+user1,2026-02-01T03:43:00+00:00,employee1@company.test,external1_2@mail.test,Security review,"At your convenience, review the access request for our records.",0
+user1,2026-02-01T05:33:00+00:00,colleague1_2@company.test,employee1@company.test,Team follow-up,I need you to review the payroll update and reply to this message.,0
+user1,2026-02-01T07:23:00+00:00,colleague1_2@company.test,employee1@company.test,Account notice,Please review the payroll update using the usual process.,0
+user1,2026-02-01T09:13:00+00:00,external1_5@mail.test,employee1@company.test,Project request,I need you to update the account details using the usual process.,0
+user1,2026-02-01T11:03:00+00:00,colleague1_0@company.test,employee1@company.test,Access request,"Before the deadline, review the payroll update and let me know.",0
+user1,2026-02-01T12:53:00+00:00,colleague1_0@company.test,employee1@company.test,Access request,"Before the deadline, verify the meeting time after the next meeting.",0
+user1,2026-02-01T14:43:00+00:00,external1_8@mail.test,employee1@company.test,Help desk message,"Today, please verify the meeting time when you are available.",1
+user1,2026-02-01T16:33:00+00:00,employee1@company.test,colleague1_0@company.test,Security review,"Before the deadline, respond to the support ticket and let me know.",0
+user1,2026-02-01T18:23:00+00:00,colleague1_0@company.test,employee1@company.test,Security review,"For the team, check the login notice with the finance team.",1
+user1,2026-02-01T20:13:00+00:00,colleague1_2@company.test,employee1@company.test,Security review,"When you have time, review the access request when you are available.",0
+user1,2026-02-01T22:03:00+00:00,external1_12@mail.test,employee1@company.test,Meeting follow-up,"Today, please verify the delivery without sharing credentials.",1
+user1,2026-02-01T23:53:00+00:00,external1_13@mail.test,employee1@company.test,Security review,Following up to review the access request using the shared portal.,1
+user1,2026-02-02T01:43:00+00:00,external1_14@mail.test,employee1@company.test,Security review,"For the weekly review, verify the meeting time and let me know.",1
+user1,2026-02-02T03:33:00+00:00,colleague1_1@company.test,employee1@company.test,Account notice,"As discussed, review the access request using the usual process.",1
+user1,2026-02-02T05:23:00+00:00,colleague1_1@company.test,employee1@company.test,Access request,I need you to review the document using the usual process.,0
+user1,2026-02-02T07:13:00+00:00,colleague1_0@company.test,employee1@company.test,Meeting follow-up,Could you respond to the support ticket and reply to this message.,0
+user1,2026-02-02T09:03:00+00:00,external1_18@mail.test,employee1@company.test,Help desk message,I need you to review the payroll update through the help desk.,1
+user1,2026-02-02T10:53:00+00:00,external1_19@mail.test,employee1@company.test,Team follow-up,"For the weekly review, review the payroll update and send a confirmation.",1
+user1,2026-02-02T12:43:00+00:00,colleague1_2@company.test,employee1@company.test,Help desk message,I need you to review the document and let me know.,0
+user1,2026-02-02T14:33:00+00:00,external1_21@mail.test,employee1@company.test,Project request,"For the team, review the access request with the finance team.",0
+user1,2026-02-02T16:23:00+00:00,external1_22@mail.test,employee1@company.test,Team follow-up,Could you verify the delivery with the finance team.,1
+user1,2026-02-02T18:13:00+00:00,colleague1_3@company.test,employee1@company.test,Help desk message,"For the team, check the payment details through the help desk.",0
+user1,2026-02-02T20:03:00+00:00,colleague1_3@company.test,employee1@company.test,Account notice,"At your convenience, update the account details using the shared portal.",0
+user1,2026-02-02T21:53:00+00:00,external1_25@mail.test,employee1@company.test,Shared document,Just a reminder to verify the delivery with the finance team.,1
+user1,2026-02-02T23:43:00+00:00,external1_26@mail.test,employee1@company.test,Project request,"Today, please update the account details before the end of the day.",1
+user1,2026-02-03T01:33:00+00:00,colleague1_3@company.test,employee1@company.test,Account notice,"For the weekly review, respond to the support ticket and let me know.",0
+user1,2026-02-03T03:23:00+00:00,external1_28@mail.test,employee1@company.test,Security review,Please confirm the schedule using the usual process.,1
+user1,2026-02-03T05:13:00+00:00,colleague1_2@company.test,employee1@company.test,Team follow-up,Could you confirm the schedule before the end of the day.,0
+user1,2026-02-03T07:03:00+00:00,external1_30@mail.test,employee1@company.test,Security review,"Today, please open the shared file using the shared portal.",0
+user1,2026-02-03T08:53:00+00:00,colleague1_1@company.test,employee1@company.test,Team follow-up,"When you have time, verify the delivery when you are available.",0
+user1,2026-02-03T10:43:00+00:00,colleague1_2@company.test,employee1@company.test,Schedule reminder,Following up to check the login notice before the end of the day.,0
+user1,2026-02-03T12:33:00+00:00,employee1@company.test,external1_33@mail.test,Help desk message,"For the team, review the document and let me know.",1
+user1,2026-02-03T14:23:00+00:00,external1_34@mail.test,employee1@company.test,Access request,I need you to check the payment details using the shared portal.,0
+user1,2026-02-03T16:13:00+00:00,external1_35@mail.test,employee1@company.test,Schedule reminder,"For the weekly review, review the document after the next meeting.",0
+user2,2026-02-01T00:06:00+00:00,colleague2_2@company.test,employee2@company.test,Account notice,Following up to check the payment details after the next meeting.,0
+user2,2026-02-01T01:56:00+00:00,colleague2_1@company.test,employee2@company.test,Account notice,"At your convenience, check the payment details with the finance team.",0
+user2,2026-02-01T03:46:00+00:00,external2_2@mail.test,employee2@company.test,Team follow-up,"For the team, check the login notice and send a confirmation.",1
+user2,2026-02-01T05:36:00+00:00,colleague2_2@company.test,employee2@company.test,Schedule reminder,"Before the deadline, open the shared file before the end of the day.",0
+user2,2026-02-01T07:26:00+00:00,colleague2_2@company.test,employee2@company.test,Project request,Just a reminder to update the account details and reply to this message.,0
+user2,2026-02-01T09:16:00+00:00,employee2@company.test,colleague2_1@company.test,Account notice,"At your convenience, confirm the invoice and reply to this message.",1
+user2,2026-02-01T11:06:00+00:00,employee2@company.test,colleague2_1@company.test,Invoice update,"For the weekly review, review the document and let me know.",0
+user2,2026-02-01T12:56:00+00:00,colleague2_2@company.test,employee2@company.test,Account notice,"For the team, review the document for our records.",0
+user2,2026-02-01T14:46:00+00:00,external2_8@mail.test,employee2@company.test,Schedule reminder,"Before the deadline, review the access request through the help desk.",0
+user2,2026-02-01T16:36:00+00:00,colleague2_2@company.test,employee2@company.test,Account notice,"For the weekly review, check the payment details for our records.",0
+user2,2026-02-01T18:26:00+00:00,external2_10@mail.test,employee2@company.test,Invoice update,Following up to confirm the schedule for our records.,1
+user2,2026-02-01T20:16:00+00:00,colleague2_1@company.test,employee2@company.test,Project request,"At your convenience, review the document with the finance team.",0
+user2,2026-02-01T22:06:00+00:00,external2_12@mail.test,employee2@company.test,Security review,I need you to open the shared file after the next meeting.,1
+user2,2026-02-01T23:56:00+00:00,colleague2_0@company.test,employee2@company.test,Schedule reminder,Please confirm the schedule for our records.,0
+user2,2026-02-02T01:46:00+00:00,colleague2_1@company.test,employee2@company.test,Schedule reminder,"As discussed, verify the delivery after the next meeting.",0
+user2,2026-02-02T03:36:00+00:00,colleague2_1@company.test,employee2@company.test,Help desk message,Following up to review the access request and let me know.,1
+user2,2026-02-02T05:26:00+00:00,colleague2_1@company.test,employee2@company.test,Help desk message,"Before the deadline, confirm the invoice without sharing credentials.",0
+user2,2026-02-02T07:16:00+00:00,external2_17@mail.test,employee2@company.test,Project request,"For the team, check the login notice and reply to this message.",1
+user2,2026-02-02T09:06:00+00:00,employee2@company.test,external2_18@mail.test,Meeting follow-up,Please respond to the support ticket when you are available.,1
+user2,2026-02-02T10:56:00+00:00,employee2@company.test,external2_19@mail.test,Schedule reminder,Following up to verify the delivery when you are available.,0
+user2,2026-02-02T12:46:00+00:00,colleague2_1@company.test,employee2@company.test,Weekly update,"When you have time, confirm the invoice with the finance team.",1
+user2,2026-02-02T14:36:00+00:00,employee2@company.test,colleague2_2@company.test,Invoice update,Could you confirm the schedule with the finance team.,0
+user2,2026-02-02T16:26:00+00:00,external2_22@mail.test,employee2@company.test,Invoice update,Could you review the access request and let me know.,1
+user2,2026-02-02T18:16:00+00:00,colleague2_3@company.test,employee2@company.test,Weekly update,Please verify the delivery before the end of the day.,0
+user2,2026-02-02T20:06:00+00:00,external2_24@mail.test,employee2@company.test,Schedule reminder,"At your convenience, update the account details when you are available.",1
+user2,2026-02-02T21:56:00+00:00,external2_25@mail.test,employee2@company.test,Access request,Following up to review the payroll update before the end of the day.,1
+user2,2026-02-02T23:46:00+00:00,employee2@company.test,colleague2_1@company.test,Payment question,"For the team, review the document after the next meeting.",0
+user2,2026-02-03T01:36:00+00:00,colleague2_3@company.test,employee2@company.test,Team follow-up,"Before the deadline, confirm the invoice and reply to this message.",0
+user2,2026-02-03T03:26:00+00:00,colleague2_3@company.test,employee2@company.test,Project request,"When you have time, check the payment details without sharing credentials.",0
+user2,2026-02-03T05:16:00+00:00,external2_29@mail.test,employee2@company.test,Account notice,"When you have time, update the account details with the finance team.",1
+user2,2026-02-03T07:06:00+00:00,colleague2_0@company.test,employee2@company.test,Schedule reminder,"Today, please review the payroll update when you are available.",1
+user2,2026-02-03T08:56:00+00:00,colleague2_0@company.test,employee2@company.test,Schedule reminder,Could you verify the delivery through the help desk.,0
+user2,2026-02-03T10:46:00+00:00,colleague2_2@company.test,employee2@company.test,Team follow-up,I need you to open the shared file before the end of the day.,0
+user2,2026-02-03T12:36:00+00:00,external2_33@mail.test,employee2@company.test,Shared document,I need you to check the payment details and reply to this message.,1
+user2,2026-02-03T14:26:00+00:00,colleague2_1@company.test,employee2@company.test,Help desk message,"For the team, update the account details before the end of the day.",1
+user2,2026-02-03T16:16:00+00:00,colleague2_0@company.test,employee2@company.test,Team follow-up,"When you have time, confirm the invoice and reply to this message.",0
+user3,2026-02-01T00:09:00+00:00,external3_0@mail.test,employee3@company.test,Team follow-up,"For the weekly review, verify the meeting time when you are available.",1
+user3,2026-02-01T01:59:00+00:00,colleague3_0@company.test,employee3@company.test,Weekly update,"For the weekly review, update the account details without sharing credentials.",0
+user3,2026-02-01T03:49:00+00:00,colleague3_2@company.test,employee3@company.test,Meeting follow-up,Please check the login notice and reply to this message.,0
+user3,2026-02-01T05:39:00+00:00,external3_3@mail.test,employee3@company.test,Invoice update,"Today, please respond to the support ticket using the shared portal.",1
+user3,2026-02-01T07:29:00+00:00,colleague3_2@company.test,employee3@company.test,Security review,I need you to respond to the support ticket and let me know.,0
+user3,2026-02-01T09:19:00+00:00,colleague3_1@company.test,employee3@company.test,Meeting follow-up,"For the weekly review, review the access request when you are available.",0
+user3,2026-02-01T11:09:00+00:00,employee3@company.test,external3_6@mail.test,Security review,Could you confirm the invoice without sharing credentials.,1
+user3,2026-02-01T12:59:00+00:00,colleague3_3@company.test,employee3@company.test,Payment question,"As discussed, confirm the invoice after the next meeting.",0
+user3,2026-02-01T14:49:00+00:00,colleague3_0@company.test,employee3@company.test,Payment question,"When you have time, verify the meeting time using the shared portal.",0
+user3,2026-02-01T16:39:00+00:00,external3_9@mail.test,employee3@company.test,Schedule reminder,"For the team, review the access request with the finance team.",1
+user3,2026-02-01T18:29:00+00:00,employee3@company.test,colleague3_2@company.test,Schedule reminder,Following up to review the document using the shared portal.,0
+user3,2026-02-01T20:19:00+00:00,employee3@company.test,external3_11@mail.test,Meeting follow-up,"When you have time, check the login notice and reply to this message.",1
+user3,2026-02-01T22:09:00+00:00,external3_12@mail.test,employee3@company.test,Security review,"As discussed, review the payroll update using the shared portal.",0
+user3,2026-02-01T23:59:00+00:00,external3_13@mail.test,employee3@company.test,Access request,"For the weekly review, update the account details and send a confirmation.",1
+user3,2026-02-02T01:49:00+00:00,external3_14@mail.test,employee3@company.test,Meeting follow-up,I need you to verify the delivery using the usual process.,1
+user3,2026-02-02T03:39:00+00:00,external3_15@mail.test,employee3@company.test,Shared document,Just a reminder to verify the meeting time through the help desk.,0
+user3,2026-02-02T05:29:00+00:00,employee3@company.test,colleague3_1@company.test,Weekly update,Please check the payment details and reply to this message.,0
+user3,2026-02-02T07:19:00+00:00,external3_17@mail.test,employee3@company.test,Access request,I need you to update the account details through the help desk.,1
+user3,2026-02-02T09:09:00+00:00,colleague3_1@company.test,employee3@company.test,Project request,"At your convenience, check the login notice before the end of the day.",0
+user3,2026-02-02T10:59:00+00:00,colleague3_3@company.test,employee3@company.test,Security review,"As discussed, respond to the support ticket after the next meeting.",0
+user3,2026-02-02T12:49:00+00:00,external3_20@mail.test,employee3@company.test,Meeting follow-up,"As discussed, confirm the schedule for our records.",0
+user3,2026-02-02T14:39:00+00:00,external3_21@mail.test,employee3@company.test,Payment question,"When you have time, verify the meeting time after the next meeting.",1
+user3,2026-02-02T16:29:00+00:00,external3_22@mail.test,employee3@company.test,Meeting follow-up,Just a reminder to review the document using the shared portal.,0
+user3,2026-02-02T18:19:00+00:00,external3_23@mail.test,employee3@company.test,Team follow-up,I need you to confirm the invoice using the shared portal.,1
+user3,2026-02-02T20:09:00+00:00,colleague3_3@company.test,employee3@company.test,Team follow-up,Could you open the shared file and let me know.,1
+user3,2026-02-02T21:59:00+00:00,external3_25@mail.test,employee3@company.test,Weekly update,Could you confirm the schedule using the shared portal.,1
+user3,2026-02-02T23:49:00+00:00,employee3@company.test,external3_26@mail.test,Help desk message,"At your convenience, confirm the schedule and reply to this message.",1
+user3,2026-02-03T01:39:00+00:00,external3_27@mail.test,employee3@company.test,Invoice update,Could you update the account details and reply to this message.,1
+user3,2026-02-03T03:29:00+00:00,external3_28@mail.test,employee3@company.test,Weekly update,Just a reminder to update the account details using the usual process.,1
+user3,2026-02-03T05:19:00+00:00,employee3@company.test,external3_29@mail.test,Schedule reminder,I need you to verify the delivery for our records.,1
+user3,2026-02-03T07:09:00+00:00,colleague3_2@company.test,employee3@company.test,Project request,"Today, please open the shared file through the help desk.",0
+user3,2026-02-03T08:59:00+00:00,external3_31@mail.test,employee3@company.test,Meeting follow-up,Could you respond to the support ticket for our records.,1
+user3,2026-02-03T10:49:00+00:00,external3_32@mail.test,employee3@company.test,Team follow-up,"At your convenience, review the access request using the usual process.",1
+user3,2026-02-03T12:39:00+00:00,colleague3_1@company.test,employee3@company.test,Help desk message,"Today, please verify the meeting time without sharing credentials.",1
+user3,2026-02-03T14:29:00+00:00,external3_34@mail.test,employee3@company.test,Schedule reminder,Please review the document with the finance team.,1
+user3,2026-02-03T16:19:00+00:00,colleague3_0@company.test,employee3@company.test,Weekly update,"For the weekly review, review the document with the finance team.",0
+user4,2026-02-01T00:12:00+00:00,external4_0@mail.test,employee4@company.test,Payment question,I need you to confirm the invoice when you are available.,0
+user4,2026-02-01T02:02:00+00:00,employee4@company.test,colleague4_3@company.test,Account notice,Just a reminder to check the payment details without sharing credentials.,0
+user4,2026-02-01T03:52:00+00:00,colleague4_3@company.test,employee4@company.test,Meeting follow-up,I need you to respond to the support ticket before the end of the day.,0
+user4,2026-02-01T05:42:00+00:00,colleague4_2@company.test,employee4@company.test,Access request,Following up to confirm the schedule before the end of the day.,0
+user4,2026-02-01T07:32:00+00:00,external4_4@mail.test,employee4@company.test,Shared document,"When you have time, verify the meeting time and send a confirmation.",1
+user4,2026-02-01T09:22:00+00:00,colleague4_2@company.test,employee4@company.test,Security review,Please respond to the support ticket using the shared portal.,1
+user4,2026-02-01T11:12:00+00:00,external4_6@mail.test,employee4@company.test,Account notice,Could you open the shared file when you are available.,0
+user4,2026-02-01T13:02:00+00:00,external4_7@mail.test,employee4@company.test,Help desk message,Could you review the access request and let me know.,1
+user4,2026-02-01T14:52:00+00:00,employee4@company.test,colleague4_0@company.test,Access request,"When you have time, check the login notice and send a confirmation.",1
+user4,2026-02-01T16:42:00+00:00,colleague4_2@company.test,employee4@company.test,Help desk message,"For the team, open the shared file and reply to this message.",0
+user4,2026-02-01T18:32:00+00:00,colleague4_0@company.test,employee4@company.test,Invoice update,I need you to confirm the schedule after the next meeting.,0
+user4,2026-02-01T20:22:00+00:00,external4_11@mail.test,employee4@company.test,Schedule reminder,"At your convenience, review the payroll update through the help desk.",1
+user4,2026-02-01T22:12:00+00:00,colleague4_3@company.test,employee4@company.test,Project request,Could you verify the meeting time with the finance team.,1
+user4,2026-02-02T00:02:00+00:00,employee4@company.test,external4_13@mail.test,Help desk message,"As discussed, check the login notice without sharing credentials.",0
+user4,2026-02-02T01:52:00+00:00,colleague4_1@company.test,employee4@company.test,Project request,I need you to review the payroll update and send a confirmation.,0
+user4,2026-02-02T03:42:00+00:00,colleague4_0@company.test,employee4@company.test,Schedule reminder,"Before the deadline, verify the delivery without sharing credentials.",0
+user4,2026-02-02T05:32:00+00:00,employee4@company.test,colleague4_3@company.test,Account notice,"For the weekly review, confirm the invoice and reply to this message.",0
+user4,2026-02-02T07:22:00+00:00,colleague4_0@company.test,employee4@company.test,Account notice,Following up to confirm the schedule and reply to this message.,0
+user4,2026-02-02T09:12:00+00:00,colleague4_0@company.test,employee4@company.test,Access request,Just a reminder to check the payment details after the next meeting.,0
+user4,2026-02-02T11:02:00+00:00,colleague4_3@company.test,employee4@company.test,Invoice update,Following up to check the login notice using the usual process.,0
+user4,2026-02-02T12:52:00+00:00,external4_20@mail.test,employee4@company.test,Project request,"Today, please confirm the invoice after the next meeting.",0
+user4,2026-02-02T14:42:00+00:00,external4_21@mail.test,employee4@company.test,Help desk message,Just a reminder to open the shared file when you are available.,1
+user4,2026-02-02T16:32:00+00:00,external4_22@mail.test,employee4@company.test,Security review,Please review the access request and let me know.,1
+user4,2026-02-02T18:22:00+00:00,external4_23@mail.test,employee4@company.test,Payment question,Just a reminder to verify the delivery through the help desk.,1
+user4,2026-02-02T20:12:00+00:00,colleague4_0@company.test,employee4@company.test,Meeting follow-up,Following up to open the shared file through the help desk.,0
+user4,2026-02-02T22:02:00+00:00,external4_25@mail.test,employee4@company.test,Invoice update,"At your convenience, open the shared file before the end of the day.",1
+user4,2026-02-02T23:52:00+00:00,colleague4_1@company.test,employee4@company.test,Meeting follow-up,"As discussed, review the payroll update through the help desk.",0
+user4,2026-02-03T01:42:00+00:00,external4_27@mail.test,employee4@company.test,Help desk message,"For the team, open the shared file and reply to this message.",1
+user4,2026-02-03T03:32:00+00:00,colleague4_3@company.test,employee4@company.test,Security review,"Today, please check the login notice using the usual process.",0
+user4,2026-02-03T05:22:00+00:00,colleague4_2@company.test,employee4@company.test,Access request,"For the team, update the account details after the next meeting.",1
+user4,2026-02-03T07:12:00+00:00,employee4@company.test,colleague4_0@company.test,Invoice update,"As discussed, verify the delivery for our records.",1
+user4,2026-02-03T09:02:00+00:00,external4_31@mail.test,employee4@company.test,Team follow-up,"For the weekly review, review the document using the usual process.",0
+user4,2026-02-03T10:52:00+00:00,external4_32@mail.test,employee4@company.test,Access request,"As discussed, check the payment details after the next meeting.",1
+user4,2026-02-03T12:42:00+00:00,colleague4_1@company.test,employee4@company.test,Project request,"Today, please review the payroll update when you are available.",0
+user4,2026-02-03T14:32:00+00:00,colleague4_1@company.test,employee4@company.test,Meeting follow-up,"For the team, respond to the support ticket when you are available.",0
+user4,2026-02-03T16:22:00+00:00,colleague4_0@company.test,employee4@company.test,Access request,Please check the login notice using the usual process.,1
+user5,2026-02-01T00:15:00+00:00,external5_0@mail.test,employee5@company.test,Team follow-up,"For the team, confirm the invoice using the usual process.",1
+user5,2026-02-01T02:05:00+00:00,colleague5_0@company.test,employee5@company.test,Security review,"As discussed, confirm the schedule for our records.",1
+user5,2026-02-01T03:55:00+00:00,external5_2@mail.test,employee5@company.test,Security review,Please verify the delivery and send a confirmation.,1
+user5,2026-02-01T05:45:00+00:00,colleague5_1@company.test,employee5@company.test,Invoice update,"For the weekly review, update the account details and let me know.",0
+user5,2026-02-01T07:35:00+00:00,colleague5_3@company.test,employee5@company.test,Project request,"When you have time, confirm the schedule using the usual process.",0
+user5,2026-02-01T09:25:00+00:00,employee5@company.test,external5_5@mail.test,Shared document,"At your convenience, check the payment details and reply to this message.",0
+user5,2026-02-01T11:15:00+00:00,colleague5_1@company.test,employee5@company.test,Invoice update,Please verify the delivery with the finance team.,0
+user5,2026-02-01T13:05:00+00:00,colleague5_2@company.test,employee5@company.test,Invoice update,"Before the deadline, verify the meeting time before the end of the day.",0
+user5,2026-02-01T14:55:00+00:00,external5_8@mail.test,employee5@company.test,Team follow-up,Just a reminder to confirm the invoice without sharing credentials.,1
+user5,2026-02-01T16:45:00+00:00,colleague5_2@company.test,employee5@company.test,Invoice update,"As discussed, confirm the schedule after the next meeting.",0
+user5,2026-02-01T18:35:00+00:00,external5_10@mail.test,employee5@company.test,Team follow-up,"Today, please confirm the schedule before the end of the day.",1
+user5,2026-02-01T20:25:00+00:00,external5_11@mail.test,employee5@company.test,Schedule reminder,"For the weekly review, confirm the schedule for our records.",1
+user5,2026-02-01T22:15:00+00:00,employee5@company.test,colleague5_1@company.test,Team follow-up,Could you review the access request and reply to this message.,1
+user5,2026-02-02T00:05:00+00:00,external5_13@mail.test,employee5@company.test,Account notice,"When you have time, review the payroll update using the usual process.",0
+user5,2026-02-02T01:55:00+00:00,colleague5_3@company.test,employee5@company.test,Schedule reminder,"As discussed, respond to the support ticket before the end of the day.",0
+user5,2026-02-02T03:45:00+00:00,external5_15@mail.test,employee5@company.test,Account notice,"At your convenience, check the login notice using the shared portal.",1
+user5,2026-02-02T05:35:00+00:00,colleague5_0@company.test,employee5@company.test,Weekly update,Following up to respond to the support ticket through the help desk.,0
+user5,2026-02-02T07:25:00+00:00,colleague5_0@company.test,employee5@company.test,Invoice update,"Today, please review the access request for our records.",0
+user5,2026-02-02T09:15:00+00:00,external5_18@mail.test,employee5@company.test,Security review,Please review the payroll update through the help desk.,1
+user5,2026-02-02T11:05:00+00:00,colleague5_1@company.test,employee5@company.test,Help desk message,"For the weekly review, review the document and let me know.",0
+user5,2026-02-02T12:55:00+00:00,employee5@company.test,colleague5_1@company.test,Security review,Just a reminder to check the payment details and send a confirmation.,0
+user5,2026-02-02T14:45:00+00:00,external5_21@mail.test,employee5@company.test,Project request,Please update the account details when you are available.,1
+user5,2026-02-02T16:35:00+00:00,external5_22@mail.test,employee5@company.test,Shared document,"For the team, confirm the schedule and reply to this message.",1
+user5,2026-02-02T18:25:00+00:00,external5_23@mail.test,employee5@company.test,Shared document,"Today, please verify the delivery when you are available.",1
+user5,2026-02-02T20:15:00+00:00,external5_24@mail.test,employee5@company.test,Invoice update,Could you check the login notice before the end of the day.,0
+user5,2026-02-02T22:05:00+00:00,colleague5_0@company.test,employee5@company.test,Schedule reminder,Following up to confirm the schedule without sharing credentials.,0
+user5,2026-02-02T23:55:00+00:00,colleague5_0@company.test,employee5@company.test,Security review,"When you have time, open the shared file using the usual process.",0
+user5,2026-02-03T01:45:00+00:00,colleague5_2@company.test,employee5@company.test,Shared document,Just a reminder to review the document through the help desk.,1
+user5,2026-02-03T03:35:00+00:00,colleague5_3@company.test,employee5@company.test,Project request,Following up to open the shared file with the finance team.,0
+user5,2026-02-03T05:25:00+00:00,colleague5_0@company.test,employee5@company.test,Shared document,"As discussed, verify the delivery after the next meeting.",0
+user5,2026-02-03T07:15:00+00:00,colleague5_3@company.test,employee5@company.test,Team follow-up,Could you respond to the support ticket after the next meeting.,0
+user5,2026-02-03T09:05:00+00:00,external5_31@mail.test,employee5@company.test,Account notice,Following up to update the account details without sharing credentials.,0
+user5,2026-02-03T10:55:00+00:00,colleague5_2@company.test,employee5@company.test,Payment question,I need you to review the payroll update using the shared portal.,0
+user5,2026-02-03T12:45:00+00:00,colleague5_1@company.test,employee5@company.test,Project request,"As discussed, check the login notice through the help desk.",0
+user5,2026-02-03T14:35:00+00:00,external5_34@mail.test,employee5@company.test,Help desk message,"For the team, verify the meeting time and send a confirmation.",0
+user5,2026-02-03T16:25:00+00:00,colleague5_2@company.test,employee5@company.test,Project request,Please respond to the support ticket with the finance team.,1
+user6,2026-02-01T00:18:00+00:00,external6_0@mail.test,employee6@company.test,Team follow-up,"At your convenience, review the payroll update using the shared portal.",1
+user6,2026-02-01T02:08:00+00:00,colleague6_1@company.test,employee6@company.test,Weekly update,Following up to check the payment details after the next meeting.,0
+user6,2026-02-01T03:58:00+00:00,employee6@company.test,external6_2@mail.test,Help desk message,Following up to respond to the support ticket and send a confirmation.,1
+user6,2026-02-01T05:48:00+00:00,colleague6_3@company.test,employee6@company.test,Meeting follow-up,"Today, please open the shared file and send a confirmation.",0
+user6,2026-02-01T07:38:00+00:00,colleague6_3@company.test,employee6@company.test,Team follow-up,I need you to confirm the schedule using the shared portal.,1
+user6,2026-02-01T09:28:00+00:00,external6_5@mail.test,employee6@company.test,Account notice,"Before the deadline, verify the delivery and reply to this message.",1
+user6,2026-02-01T11:18:00+00:00,external6_6@mail.test,employee6@company.test,Access request,"When you have time, update the account details using the shared portal.",1
+user6,2026-02-01T13:08:00+00:00,colleague6_0@company.test,employee6@company.test,Meeting follow-up,"As discussed, check the payment details using the shared portal.",0
+user6,2026-02-01T14:58:00+00:00,external6_8@mail.test,employee6@company.test,Project request,Just a reminder to open the shared file using the usual process.,1
+user6,2026-02-01T16:48:00+00:00,colleague6_0@company.test,employee6@company.test,Security review,"Today, please check the login notice using the shared portal.",0
+user6,2026-02-01T18:38:00+00:00,external6_10@mail.test,employee6@company.test,Project request,I need you to check the payment details for our records.,1
+user6,2026-02-01T20:28:00+00:00,colleague6_1@company.test,employee6@company.test,Help desk message,Just a reminder to review the payroll update without sharing credentials.,1
+user6,2026-02-01T22:18:00+00:00,colleague6_2@company.test,employee6@company.test,Invoice update,I need you to review the access request and send a confirmation.,0
+user6,2026-02-02T00:08:00+00:00,colleague6_1@company.test,employee6@company.test,Account notice,Could you review the access request for our records.,0
+user6,2026-02-02T01:58:00+00:00,employee6@company.test,colleague6_3@company.test,Weekly update,"As discussed, respond to the support ticket with the finance team.",0
+user6,2026-02-02T03:48:00+00:00,colleague6_1@company.test,employee6@company.test,Payment question,Could you review the payroll update for our records.,0
+user6,2026-02-02T05:38:00+00:00,employee6@company.test,external6_16@mail.test,Meeting follow-up,I need you to review the access request using the shared portal.,0
+user6,2026-02-02T07:28:00+00:00,colleague6_0@company.test,employee6@company.test,Meeting follow-up,"As discussed, confirm the invoice when you are available.",0
+user6,2026-02-02T09:18:00+00:00,colleague6_1@company.test,employee6@company.test,Help desk message,"At your convenience, confirm the invoice before the end of the day.",0
+user6,2026-02-02T11:08:00+00:00,colleague6_0@company.test,employee6@company.test,Account notice,"For the weekly review, check the payment details with the finance team.",0
+user6,2026-02-02T12:58:00+00:00,colleague6_3@company.test,employee6@company.test,Help desk message,"As discussed, confirm the schedule for our records.",0
+user6,2026-02-02T14:48:00+00:00,colleague6_3@company.test,employee6@company.test,Meeting follow-up,Just a reminder to verify the delivery and send a confirmation.,0
+user6,2026-02-02T16:38:00+00:00,colleague6_0@company.test,employee6@company.test,Weekly update,Just a reminder to confirm the invoice when you are available.,0
+user6,2026-02-02T18:28:00+00:00,employee6@company.test,colleague6_1@company.test,Help desk message,"Today, please respond to the support ticket using the shared portal.",0
+user6,2026-02-02T20:18:00+00:00,colleague6_3@company.test,employee6@company.test,Project request,"For the team, review the payroll update using the shared portal.",0
+user6,2026-02-02T22:08:00+00:00,external6_25@mail.test,employee6@company.test,Payment question,"For the weekly review, review the access request before the end of the day.",1
+user6,2026-02-02T23:58:00+00:00,colleague6_2@company.test,employee6@company.test,Access request,"When you have time, verify the delivery for our records.",0
+user6,2026-02-03T01:48:00+00:00,colleague6_0@company.test,employee6@company.test,Access request,Could you review the document when you are available.,0
+user6,2026-02-03T03:38:00+00:00,colleague6_3@company.test,employee6@company.test,Account notice,Following up to confirm the invoice and reply to this message.,0
+user6,2026-02-03T05:28:00+00:00,colleague6_0@company.test,employee6@company.test,Help desk message,Just a reminder to review the payroll update after the next meeting.,0
+user6,2026-02-03T07:18:00+00:00,external6_30@mail.test,employee6@company.test,Project request,"For the weekly review, verify the meeting time using the shared portal.",1
+user6,2026-02-03T09:08:00+00:00,external6_31@mail.test,employee6@company.test,Project request,"Before the deadline, confirm the schedule through the help desk.",1
+user6,2026-02-03T10:58:00+00:00,colleague6_2@company.test,employee6@company.test,Team follow-up,Following up to confirm the schedule with the finance team.,0
+user6,2026-02-03T12:48:00+00:00,colleague6_3@company.test,employee6@company.test,Account notice,"For the team, confirm the invoice and reply to this message.",0
+user6,2026-02-03T14:38:00+00:00,colleague6_3@company.test,employee6@company.test,Shared document,Please verify the delivery and reply to this message.,0
+user6,2026-02-03T16:28:00+00:00,employee6@company.test,external6_35@mail.test,Team follow-up,Just a reminder to confirm the invoice and let me know.,1
+user7,2026-02-01T00:21:00+00:00,external7_0@mail.test,employee7@company.test,Account notice,"For the weekly review, confirm the schedule through the help desk.",1
+user7,2026-02-01T02:11:00+00:00,external7_1@mail.test,employee7@company.test,Project request,"At your convenience, open the shared file before the end of the day.",0
+user7,2026-02-01T04:01:00+00:00,colleague7_0@company.test,employee7@company.test,Help desk message,Could you verify the delivery for our records.,1
+user7,2026-02-01T05:51:00+00:00,colleague7_2@company.test,employee7@company.test,Schedule reminder,"At your convenience, open the shared file and let me know.",0
+user7,2026-02-01T07:41:00+00:00,colleague7_0@company.test,employee7@company.test,Invoice update,"When you have time, review the access request after the next meeting.",0
+user7,2026-02-01T09:31:00+00:00,employee7@company.test,colleague7_2@company.test,Meeting follow-up,"For the weekly review, confirm the schedule without sharing credentials.",0
+user7,2026-02-01T11:21:00+00:00,employee7@company.test,external7_6@mail.test,Account notice,"Today, please verify the meeting time using the shared portal.",0
+user7,2026-02-01T13:11:00+00:00,colleague7_2@company.test,employee7@company.test,Account notice,"As discussed, check the payment details with the finance team.",0
+user7,2026-02-01T15:01:00+00:00,colleague7_0@company.test,employee7@company.test,Project request,"At your convenience, review the access request with the finance team.",0
+user7,2026-02-01T16:51:00+00:00,external7_9@mail.test,employee7@company.test,Team follow-up,Just a reminder to review the access request and reply to this message.,0
+user7,2026-02-01T18:41:00+00:00,employee7@company.test,colleague7_3@company.test,Invoice update,"For the team, review the payroll update for our records.",0
+user7,2026-02-01T20:31:00+00:00,colleague7_2@company.test,employee7@company.test,Security review,Please update the account details using the shared portal.,0
+user7,2026-02-01T22:21:00+00:00,colleague7_3@company.test,employee7@company.test,Help desk message,"As discussed, review the payroll update after the next meeting.",1
+user7,2026-02-02T00:11:00+00:00,external7_13@mail.test,employee7@company.test,Invoice update,"At your convenience, respond to the support ticket through the help desk.",0
+user7,2026-02-02T02:01:00+00:00,colleague7_3@company.test,employee7@company.test,Security review,"Before the deadline, update the account details without sharing credentials.",0
+user7,2026-02-02T03:51:00+00:00,colleague7_3@company.test,employee7@company.test,Help desk message,"Today, please confirm the invoice when you are available.",0
+user7,2026-02-02T05:41:00+00:00,external7_16@mail.test,employee7@company.test,Access request,"At your convenience, check the payment details using the usual process.",1
+user7,2026-02-02T07:31:00+00:00,employee7@company.test,external7_17@mail.test,Meeting follow-up,"Today, please review the document without sharing credentials.",1
+user7,2026-02-02T09:21:00+00:00,employee7@company.test,colleague7_3@company.test,Team follow-up,I need you to open the shared file through the help desk.,1
+user7,2026-02-02T11:11:00+00:00,employee7@company.test,external7_19@mail.test,Shared document,"As discussed, review the access request and reply to this message.",1
+user7,2026-02-02T13:01:00+00:00,colleague7_1@company.test,employee7@company.test,Payment question,"Today, please respond to the support ticket after the next meeting.",0
+user7,2026-02-02T14:51:00+00:00,external7_21@mail.test,employee7@company.test,Team follow-up,Could you confirm the schedule and reply to this message.,0
+user7,2026-02-02T16:41:00+00:00,employee7@company.test,colleague7_3@company.test,Project request,Please review the payroll update after the next meeting.,0
+user7,2026-02-02T18:31:00+00:00,colleague7_1@company.test,employee7@company.test,Schedule reminder,"Today, please review the document without sharing credentials.",0
+user7,2026-02-02T20:21:00+00:00,employee7@company.test,colleague7_3@company.test,Payment question,Following up to verify the meeting time through the help desk.,1
+user7,2026-02-02T22:11:00+00:00,employee7@company.test,colleague7_3@company.test,Meeting follow-up,Just a reminder to open the shared file and send a confirmation.,0
+user7,2026-02-03T00:01:00+00:00,colleague7_2@company.test,employee7@company.test,Project request,Could you update the account details through the help desk.,0
+user7,2026-02-03T01:51:00+00:00,colleague7_1@company.test,employee7@company.test,Project request,Following up to verify the delivery using the shared portal.,0
+user7,2026-02-03T03:41:00+00:00,external7_28@mail.test,employee7@company.test,Payment question,Could you confirm the invoice and reply to this message.,1
+user7,2026-02-03T05:31:00+00:00,colleague7_3@company.test,employee7@company.test,Account notice,"For the team, review the access request after the next meeting.",0
+user7,2026-02-03T07:21:00+00:00,colleague7_1@company.test,employee7@company.test,Schedule reminder,"Before the deadline, respond to the support ticket without sharing credentials.",0
+user7,2026-02-03T09:11:00+00:00,colleague7_3@company.test,employee7@company.test,Project request,Please review the payroll update and let me know.,0
+user7,2026-02-03T11:01:00+00:00,external7_32@mail.test,employee7@company.test,Project request,"When you have time, verify the meeting time and send a confirmation.",0
+user7,2026-02-03T12:51:00+00:00,colleague7_0@company.test,employee7@company.test,Help desk message,"At your convenience, confirm the schedule before the end of the day.",0
+user7,2026-02-03T14:41:00+00:00,colleague7_1@company.test,employee7@company.test,Team follow-up,"For the team, update the account details without sharing credentials.",0
+user7,2026-02-03T16:31:00+00:00,external7_35@mail.test,employee7@company.test,Account notice,"At your convenience, review the payroll update and reply to this message.",0
+user8,2026-02-01T00:24:00+00:00,external8_0@mail.test,employee8@company.test,Access request,Just a reminder to confirm the schedule and let me know.,0
+user8,2026-02-01T02:14:00+00:00,external8_1@mail.test,employee8@company.test,Project request,Please open the shared file after the next meeting.,1
+user8,2026-02-01T04:04:00+00:00,colleague8_3@company.test,employee8@company.test,Shared document,Following up to respond to the support ticket without sharing credentials.,0
+user8,2026-02-01T05:54:00+00:00,colleague8_3@company.test,employee8@company.test,Payment question,Just a reminder to review the access request when you are available.,0
+user8,2026-02-01T07:44:00+00:00,colleague8_0@company.test,employee8@company.test,Project request,"When you have time, confirm the schedule and let me know.",0
+user8,2026-02-01T09:34:00+00:00,employee8@company.test,colleague8_0@company.test,Weekly update,"At your convenience, open the shared file and send a confirmation.",0
+user8,2026-02-01T11:24:00+00:00,colleague8_0@company.test,employee8@company.test,Access request,I need you to verify the meeting time before the end of the day.,0
+user8,2026-02-01T13:14:00+00:00,employee8@company.test,colleague8_3@company.test,Weekly update,Please review the access request when you are available.,1
+user8,2026-02-01T15:04:00+00:00,employee8@company.test,colleague8_0@company.test,Help desk message,"When you have time, check the login notice and send a confirmation.",0
+user8,2026-02-01T16:54:00+00:00,colleague8_0@company.test,employee8@company.test,Help desk message,"When you have time, review the payroll update when you are available.",0
+user8,2026-02-01T18:44:00+00:00,colleague8_0@company.test,employee8@company.test,Invoice update,"Today, please confirm the invoice and send a confirmation.",0
+user8,2026-02-01T20:34:00+00:00,external8_11@mail.test,employee8@company.test,Project request,I need you to review the document without sharing credentials.,0
+user8,2026-02-01T22:24:00+00:00,external8_12@mail.test,employee8@company.test,Access request,"As discussed, verify the meeting time using the shared portal.",1
+user8,2026-02-02T00:14:00+00:00,colleague8_1@company.test,employee8@company.test,Weekly update,Just a reminder to verify the meeting time without sharing credentials.,0
+user8,2026-02-02T02:04:00+00:00,external8_14@mail.test,employee8@company.test,Account notice,Please verify the meeting time and reply to this message.,0
+user8,2026-02-02T03:54:00+00:00,colleague8_1@company.test,employee8@company.test,Help desk message,"As discussed, confirm the invoice with the finance team.",0
+user8,2026-02-02T05:44:00+00:00,colleague8_3@company.test,employee8@company.test,Meeting follow-up,"Before the deadline, review the payroll update without sharing credentials.",0
+user8,2026-02-02T07:34:00+00:00,external8_17@mail.test,employee8@company.test,Security review,Just a reminder to check the payment details for our records.,0
+user8,2026-02-02T09:24:00+00:00,colleague8_1@company.test,employee8@company.test,Meeting follow-up,I need you to check the payment details before the end of the day.,0
+user8,2026-02-02T11:14:00+00:00,colleague8_0@company.test,employee8@company.test,Payment question,Following up to confirm the schedule with the finance team.,0
+user8,2026-02-02T13:04:00+00:00,external8_20@mail.test,employee8@company.test,Security review,"As discussed, verify the meeting time and let me know.",1
+user8,2026-02-02T14:54:00+00:00,colleague8_0@company.test,employee8@company.test,Payment question,"When you have time, review the access request without sharing credentials.",1
+user8,2026-02-02T16:44:00+00:00,colleague8_3@company.test,employee8@company.test,Payment question,"When you have time, check the payment details and send a confirmation.",0
+user8,2026-02-02T18:34:00+00:00,employee8@company.test,external8_23@mail.test,Access request,"When you have time, confirm the schedule and reply to this message.",1
+user8,2026-02-02T20:24:00+00:00,external8_24@mail.test,employee8@company.test,Account notice,Following up to confirm the schedule after the next meeting.,1
+user8,2026-02-02T22:14:00+00:00,colleague8_0@company.test,employee8@company.test,Schedule reminder,Could you review the document and send a confirmation.,0
+user8,2026-02-03T00:04:00+00:00,colleague8_1@company.test,employee8@company.test,Access request,Just a reminder to confirm the invoice and let me know.,1
+user8,2026-02-03T01:54:00+00:00,colleague8_1@company.test,employee8@company.test,Weekly update,"Before the deadline, verify the delivery when you are available.",0
+user8,2026-02-03T03:44:00+00:00,colleague8_2@company.test,employee8@company.test,Payment question,Following up to verify the meeting time for our records.,0
+user8,2026-02-03T05:34:00+00:00,colleague8_2@company.test,employee8@company.test,Weekly update,I need you to update the account details when you are available.,0
+user8,2026-02-03T07:24:00+00:00,colleague8_0@company.test,employee8@company.test,Invoice update,I need you to check the payment details through the help desk.,0
+user8,2026-02-03T09:14:00+00:00,external8_31@mail.test,employee8@company.test,Payment question,"At your convenience, confirm the invoice using the shared portal.",1
+user8,2026-02-03T11:04:00+00:00,colleague8_2@company.test,employee8@company.test,Payment question,"For the team, confirm the schedule using the usual process.",0
+user8,2026-02-03T12:54:00+00:00,colleague8_2@company.test,employee8@company.test,Invoice update,Could you update the account details with the finance team.,0
+user8,2026-02-03T14:44:00+00:00,colleague8_1@company.test,employee8@company.test,Help desk message,"Today, please review the payroll update using the shared portal.",0
+user8,2026-02-03T16:34:00+00:00,employee8@company.test,colleague8_0@company.test,Schedule reminder,Just a reminder to confirm the schedule and send a confirmation.,0
+user9,2026-02-01T00:27:00+00:00,employee9@company.test,external9_0@mail.test,Weekly update,I need you to review the document for our records.,1
+user9,2026-02-01T02:17:00+00:00,external9_1@mail.test,employee9@company.test,Account notice,Please review the payroll update when you are available.,1
+user9,2026-02-01T04:07:00+00:00,colleague9_3@company.test,employee9@company.test,Meeting follow-up,"Before the deadline, review the payroll update after the next meeting.",0
+user9,2026-02-01T05:57:00+00:00,colleague9_3@company.test,employee9@company.test,Help desk message,Please verify the meeting time for our records.,0
+user9,2026-02-01T07:47:00+00:00,employee9@company.test,external9_4@mail.test,Access request,Just a reminder to verify the delivery when you are available.,1
+user9,2026-02-01T09:37:00+00:00,external9_5@mail.test,employee9@company.test,Payment question,"For the team, verify the meeting time without sharing credentials.",0
+user9,2026-02-01T11:27:00+00:00,external9_6@mail.test,employee9@company.test,Shared document,"Before the deadline, open the shared file without sharing credentials.",1
+user9,2026-02-01T13:17:00+00:00,external9_7@mail.test,employee9@company.test,Meeting follow-up,"At your convenience, check the payment details and send a confirmation.",1
+user9,2026-02-01T15:07:00+00:00,colleague9_1@company.test,employee9@company.test,Security review,Just a reminder to check the payment details for our records.,0
+user9,2026-02-01T16:57:00+00:00,colleague9_1@company.test,employee9@company.test,Security review,Following up to confirm the schedule before the end of the day.,0
+user9,2026-02-01T18:47:00+00:00,external9_10@mail.test,employee9@company.test,Payment question,"For the team, respond to the support ticket for our records.",1
+user9,2026-02-01T20:37:00+00:00,employee9@company.test,external9_11@mail.test,Project request,Following up to review the document before the end of the day.,1
+user9,2026-02-01T22:27:00+00:00,external9_12@mail.test,employee9@company.test,Meeting follow-up,"When you have time, check the payment details and reply to this message.",1
+user9,2026-02-02T00:17:00+00:00,colleague9_3@company.test,employee9@company.test,Invoice update,Just a reminder to verify the delivery after the next meeting.,0
+user9,2026-02-02T02:07:00+00:00,external9_14@mail.test,employee9@company.test,Account notice,"As discussed, confirm the invoice when you are available.",1
+user9,2026-02-02T03:57:00+00:00,colleague9_0@company.test,employee9@company.test,Team follow-up,"At your convenience, verify the meeting time and reply to this message.",0
+user9,2026-02-02T05:47:00+00:00,colleague9_2@company.test,employee9@company.test,Help desk message,"Before the deadline, respond to the support ticket and reply to this message.",0
+user9,2026-02-02T07:37:00+00:00,external9_17@mail.test,employee9@company.test,Project request,"Before the deadline, confirm the schedule using the usual process.",1
+user9,2026-02-02T09:27:00+00:00,colleague9_3@company.test,employee9@company.test,Meeting follow-up,Following up to update the account details with the finance team.,0
+user9,2026-02-02T11:17:00+00:00,employee9@company.test,colleague9_3@company.test,Meeting follow-up,"For the weekly review, review the access request using the usual process.",0
+user9,2026-02-02T13:07:00+00:00,employee9@company.test,colleague9_0@company.test,Help desk message,"For the team, open the shared file and send a confirmation.",0
+user9,2026-02-02T14:57:00+00:00,colleague9_2@company.test,employee9@company.test,Project request,"Before the deadline, verify the delivery and send a confirmation.",0
+user9,2026-02-02T16:47:00+00:00,colleague9_0@company.test,employee9@company.test,Team follow-up,"For the weekly review, check the payment details and send a confirmation.",0
+user9,2026-02-02T18:37:00+00:00,colleague9_2@company.test,employee9@company.test,Weekly update,I need you to review the access request using the usual process.,0
+user9,2026-02-02T20:27:00+00:00,employee9@company.test,external9_24@mail.test,Security review,Could you check the payment details using the shared portal.,1
+user9,2026-02-02T22:17:00+00:00,external9_25@mail.test,employee9@company.test,Meeting follow-up,Following up to confirm the invoice and reply to this message.,0
+user9,2026-02-03T00:07:00+00:00,external9_26@mail.test,employee9@company.test,Payment question,"At your convenience, update the account details without sharing credentials.",0
+user9,2026-02-03T01:57:00+00:00,external9_27@mail.test,employee9@company.test,Access request,"When you have time, review the access request without sharing credentials.",0
+user9,2026-02-03T03:47:00+00:00,colleague9_3@company.test,employee9@company.test,Payment question,"As discussed, check the payment details when you are available.",0
+user9,2026-02-03T05:37:00+00:00,colleague9_3@company.test,employee9@company.test,Account notice,"When you have time, update the account details and reply to this message.",0
+user9,2026-02-03T07:27:00+00:00,colleague9_2@company.test,employee9@company.test,Invoice update,Just a reminder to check the payment details without sharing credentials.,0
+user9,2026-02-03T09:17:00+00:00,employee9@company.test,colleague9_0@company.test,Weekly update,"For the team, confirm the schedule when you are available.",0
+user9,2026-02-03T11:07:00+00:00,colleague9_0@company.test,employee9@company.test,Project request,Could you confirm the invoice when you are available.,0
+user9,2026-02-03T12:57:00+00:00,colleague9_0@company.test,employee9@company.test,Payment question,Could you review the access request using the shared portal.,0
+user9,2026-02-03T14:47:00+00:00,colleague9_0@company.test,employee9@company.test,Invoice update,"For the weekly review, verify the meeting time with the finance team.",0
+user9,2026-02-03T16:37:00+00:00,external9_35@mail.test,employee9@company.test,Shared document,"When you have time, review the document and let me know.",0
+user10,2026-02-01T00:30:00+00:00,employee10@company.test,external10_0@mail.test,Help desk message,Just a reminder to confirm the invoice and send a confirmation.,1
+user10,2026-02-01T02:20:00+00:00,external10_1@mail.test,employee10@company.test,Security review,Just a reminder to confirm the invoice and send a confirmation.,1
+user10,2026-02-01T04:10:00+00:00,external10_2@mail.test,employee10@company.test,Weekly update,Following up to open the shared file for our records.,1
+user10,2026-02-01T06:00:00+00:00,employee10@company.test,external10_3@mail.test,Invoice update,Could you check the login notice through the help desk.,1
+user10,2026-02-01T07:50:00+00:00,colleague10_0@company.test,employee10@company.test,Shared document,"When you have time, update the account details through the help desk.",0
+user10,2026-02-01T09:40:00+00:00,colleague10_1@company.test,employee10@company.test,Invoice update,"As discussed, open the shared file and send a confirmation.",1
+user10,2026-02-01T11:30:00+00:00,employee10@company.test,external10_6@mail.test,Schedule reminder,"For the weekly review, confirm the schedule and send a confirmation.",0
+user10,2026-02-01T13:20:00+00:00,external10_7@mail.test,employee10@company.test,Security review,I need you to check the login notice for our records.,1
+user10,2026-02-01T15:10:00+00:00,colleague10_3@company.test,employee10@company.test,Access request,Could you review the document using the shared portal.,0
+user10,2026-02-01T17:00:00+00:00,colleague10_1@company.test,employee10@company.test,Invoice update,I need you to check the payment details and send a confirmation.,0
+user10,2026-02-01T18:50:00+00:00,colleague10_0@company.test,employee10@company.test,Help desk message,I need you to verify the delivery and let me know.,0
+user10,2026-02-01T20:40:00+00:00,employee10@company.test,colleague10_1@company.test,Schedule reminder,"At your convenience, check the payment details and let me know.",1
+user10,2026-02-01T22:30:00+00:00,colleague10_0@company.test,employee10@company.test,Security review,Please verify the delivery using the shared portal.,0
+user10,2026-02-02T00:20:00+00:00,external10_13@mail.test,employee10@company.test,Invoice update,"For the weekly review, respond to the support ticket using the shared portal.",1
+user10,2026-02-02T02:10:00+00:00,employee10@company.test,external10_14@mail.test,Help desk message,"At your convenience, review the document for our records.",1
+user10,2026-02-02T04:00:00+00:00,employee10@company.test,external10_15@mail.test,Invoice update,"As discussed, confirm the schedule through the help desk.",0
+user10,2026-02-02T05:50:00+00:00,colleague10_0@company.test,employee10@company.test,Project request,Could you confirm the invoice with the finance team.,0
+user10,2026-02-02T07:40:00+00:00,external10_17@mail.test,employee10@company.test,Schedule reminder,Could you confirm the invoice for our records.,0
+user10,2026-02-02T09:30:00+00:00,employee10@company.test,colleague10_0@company.test,Shared document,Just a reminder to confirm the invoice when you are available.,0
+user10,2026-02-02T11:20:00+00:00,employee10@company.test,colleague10_2@company.test,Account notice,"For the team, confirm the schedule using the usual process.",0
+user10,2026-02-02T13:10:00+00:00,external10_20@mail.test,employee10@company.test,Meeting follow-up,Could you check the login notice and let me know.,0
+user10,2026-02-02T15:00:00+00:00,external10_21@mail.test,employee10@company.test,Access request,"For the weekly review, review the access request for our records.",1
+user10,2026-02-02T16:50:00+00:00,external10_22@mail.test,employee10@company.test,Weekly update,"For the team, confirm the schedule for our records.",1
+user10,2026-02-02T18:40:00+00:00,colleague10_2@company.test,employee10@company.test,Team follow-up,"At your convenience, verify the meeting time and reply to this message.",0
+user10,2026-02-02T20:30:00+00:00,colleague10_1@company.test,employee10@company.test,Meeting follow-up,"Today, please review the payroll update without sharing credentials.",0
+user10,2026-02-02T22:20:00+00:00,external10_25@mail.test,employee10@company.test,Security review,Just a reminder to check the login notice with the finance team.,1
+user10,2026-02-03T00:10:00+00:00,colleague10_0@company.test,employee10@company.test,Schedule reminder,"For the team, check the payment details and let me know.",0
+user10,2026-02-03T02:00:00+00:00,colleague10_0@company.test,employee10@company.test,Payment question,"Before the deadline, confirm the schedule after the next meeting.",0
+user10,2026-02-03T03:50:00+00:00,colleague10_2@company.test,employee10@company.test,Invoice update,I need you to check the login notice for our records.,0
+user10,2026-02-03T05:40:00+00:00,external10_29@mail.test,employee10@company.test,Security review,Could you confirm the invoice after the next meeting.,0
+user10,2026-02-03T07:30:00+00:00,employee10@company.test,external10_30@mail.test,Help desk message,"As discussed, review the access request with the finance team.",1
+user10,2026-02-03T09:20:00+00:00,employee10@company.test,external10_31@mail.test,Meeting follow-up,"As discussed, review the access request and let me know.",1
+user10,2026-02-03T11:10:00+00:00,external10_32@mail.test,employee10@company.test,Payment question,"Today, please verify the delivery and send a confirmation.",1
+user10,2026-02-03T13:00:00+00:00,external10_33@mail.test,employee10@company.test,Help desk message,Just a reminder to check the payment details through the help desk.,0
+user10,2026-02-03T14:50:00+00:00,colleague10_3@company.test,employee10@company.test,Project request,Could you open the shared file when you are available.,0
+user10,2026-02-03T16:40:00+00:00,employee10@company.test,external10_35@mail.test,Invoice update,Could you check the login notice using the usual process.,1
+user11,2026-02-01T00:33:00+00:00,colleague11_3@company.test,employee11@company.test,Shared document,I need you to check the payment details before the end of the day.,0
+user11,2026-02-01T02:23:00+00:00,colleague11_0@company.test,employee11@company.test,Project request,"At your convenience, confirm the schedule through the help desk.",1
+user11,2026-02-01T04:13:00+00:00,colleague11_0@company.test,employee11@company.test,Account notice,"For the team, check the login notice using the usual process.",0
+user11,2026-02-01T06:03:00+00:00,colleague11_0@company.test,employee11@company.test,Team follow-up,"For the team, verify the meeting time through the help desk.",0
+user11,2026-02-01T07:53:00+00:00,colleague11_3@company.test,employee11@company.test,Help desk message,Just a reminder to review the access request before the end of the day.,0
+user11,2026-02-01T09:43:00+00:00,external11_5@mail.test,employee11@company.test,Invoice update,"Before the deadline, verify the delivery through the help desk.",0
+user11,2026-02-01T11:33:00+00:00,colleague11_2@company.test,employee11@company.test,Shared document,Just a reminder to open the shared file and reply to this message.,0
+user11,2026-02-01T13:23:00+00:00,employee11@company.test,external11_7@mail.test,Project request,"Today, please update the account details before the end of the day.",0
+user11,2026-02-01T15:13:00+00:00,colleague11_1@company.test,employee11@company.test,Shared document,"Today, please verify the meeting time using the usual process.",0
+user11,2026-02-01T17:03:00+00:00,colleague11_2@company.test,employee11@company.test,Payment question,"When you have time, review the document and reply to this message.",0
+user11,2026-02-01T18:53:00+00:00,colleague11_0@company.test,employee11@company.test,Shared document,Following up to confirm the invoice through the help desk.,0
+user11,2026-02-01T20:43:00+00:00,colleague11_0@company.test,employee11@company.test,Project request,"Today, please confirm the schedule before the end of the day.",0
+user11,2026-02-01T22:33:00+00:00,external11_12@mail.test,employee11@company.test,Team follow-up,Please check the login notice and reply to this message.,0
+user11,2026-02-02T00:23:00+00:00,external11_13@mail.test,employee11@company.test,Account notice,"For the weekly review, verify the delivery and send a confirmation.",1
+user11,2026-02-02T02:13:00+00:00,external11_14@mail.test,employee11@company.test,Weekly update,Could you confirm the schedule using the usual process.,1
+user11,2026-02-02T04:03:00+00:00,colleague11_3@company.test,employee11@company.test,Payment question,"For the team, check the login notice before the end of the day.",0
+user11,2026-02-02T05:53:00+00:00,colleague11_0@company.test,employee11@company.test,Weekly update,Could you check the payment details after the next meeting.,0
+user11,2026-02-02T07:43:00+00:00,colleague11_2@company.test,employee11@company.test,Project request,Could you review the document after the next meeting.,0
+user11,2026-02-02T09:33:00+00:00,external11_18@mail.test,employee11@company.test,Access request,"Before the deadline, open the shared file without sharing credentials.",1
+user11,2026-02-02T11:23:00+00:00,colleague11_0@company.test,employee11@company.test,Meeting follow-up,"For the weekly review, confirm the schedule without sharing credentials.",1
+user11,2026-02-02T13:13:00+00:00,external11_20@mail.test,employee11@company.test,Schedule reminder,"Today, please review the access request and reply to this message.",0
+user11,2026-02-02T15:03:00+00:00,external11_21@mail.test,employee11@company.test,Invoice update,Could you confirm the invoice when you are available.,0
+user11,2026-02-02T16:53:00+00:00,external11_22@mail.test,employee11@company.test,Meeting follow-up,"Before the deadline, confirm the schedule using the shared portal.",0
+user11,2026-02-02T18:43:00+00:00,colleague11_3@company.test,employee11@company.test,Project request,"At your convenience, confirm the schedule for our records.",0
+user11,2026-02-02T20:33:00+00:00,colleague11_2@company.test,employee11@company.test,Shared document,"For the weekly review, verify the delivery before the end of the day.",0
+user11,2026-02-02T22:23:00+00:00,colleague11_3@company.test,employee11@company.test,Weekly update,"As discussed, verify the delivery with the finance team.",0
+user11,2026-02-03T00:13:00+00:00,colleague11_0@company.test,employee11@company.test,Account notice,Please review the access request through the help desk.,0
+user11,2026-02-03T02:03:00+00:00,external11_27@mail.test,employee11@company.test,Invoice update,Just a reminder to confirm the schedule before the end of the day.,1
+user11,2026-02-03T03:53:00+00:00,colleague11_2@company.test,employee11@company.test,Weekly update,"As discussed, verify the meeting time and let me know.",0
+user11,2026-02-03T05:43:00+00:00,colleague11_0@company.test,employee11@company.test,Project request,"For the team, review the payroll update for our records.",0
+user11,2026-02-03T07:33:00+00:00,employee11@company.test,external11_30@mail.test,Meeting follow-up,Could you review the access request without sharing credentials.,0
+user11,2026-02-03T09:23:00+00:00,colleague11_3@company.test,employee11@company.test,Payment question,"At your convenience, review the document when you are available.",0
+user11,2026-02-03T11:13:00+00:00,colleague11_2@company.test,employee11@company.test,Team follow-up,"When you have time, open the shared file using the usual process.",1
+user11,2026-02-03T13:03:00+00:00,external11_33@mail.test,employee11@company.test,Help desk message,Please review the payroll update through the help desk.,0
+user11,2026-02-03T14:53:00+00:00,external11_34@mail.test,employee11@company.test,Schedule reminder,"Today, please respond to the support ticket for our records.",0
+user11,2026-02-03T16:43:00+00:00,external11_35@mail.test,employee11@company.test,Account notice,"As discussed, review the document and let me know.",1
